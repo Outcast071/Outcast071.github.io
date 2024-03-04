@@ -7,3 +7,9 @@ h1 {
   text-align: center;
   padding:10px;
 }
+dive {
+  color:springgreen;
+  border:2px solid white;
+  padding:5px;
+  margin: 2px;
+}

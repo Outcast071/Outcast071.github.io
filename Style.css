@@ -1,4 +1,4 @@
-body , div {
+body {
   background-color:black;
 }
 h1 {
@@ -9,6 +9,7 @@ h1 {
   background-color:gray;
 }
 div {
+  background-color:black;
   color:springgreen;
   border:2px solid white;
   padding:5px;

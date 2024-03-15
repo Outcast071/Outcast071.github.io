@@ -1,4 +1,6 @@
-
+body {
+    background-color: black;
+}
 h1, h2, p {
     margin: 2px;
     padding: 5px 10px;
